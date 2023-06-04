@@ -26,4 +26,4 @@ Users should be able to:
 
 ### What I learned
 
-This is mt first project using ReactJS !!
+This is my first project using ReactJS !!
